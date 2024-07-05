@@ -1,0 +1,4 @@
+ID 	NombreApellido 	Valorant 	Fortnite 	Fifa 	Tipo 
+. 00 	carlos b 	100 	200 	300 	Principiante 
+. 01 	karina p 	400 	300 	100 	Principiante 
+. 

@@ -1,0 +1,4 @@
+ID 	NombreApellido 	Valorant 	Fortnite 	Fifa 	Tipo 
+. 03 	nahir b 	400 	300 	200 	Experto 
+. 04 	karyme m 	0 	200 	500 	Experto 
+. 
